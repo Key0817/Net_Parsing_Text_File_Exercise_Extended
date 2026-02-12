@@ -1,0 +1,8 @@
+C:\Evertec\Práctica\TextFileParser\TextFileParser\bin\Debug\TextFileParser.exe.config
+C:\Evertec\Práctica\TextFileParser\TextFileParser\bin\Debug\TextFileParser.exe
+C:\Evertec\Práctica\TextFileParser\TextFileParser\bin\Debug\TextFileParser.pdb
+C:\Evertec\Práctica\TextFileParser\TextFileParser\obj\Debug\TextFileParser.csproj.AssemblyReference.cache
+C:\Evertec\Práctica\TextFileParser\TextFileParser\obj\Debug\TextFileParser.csproj.CoreCompileInputs.cache
+C:\Evertec\Práctica\TextFileParser\TextFileParser\obj\Debug\TextFileParser.exe
+C:\Evertec\Práctica\TextFileParser\TextFileParser\obj\Debug\TextFileParser.pdb
+C:\Evertec\Práctica\TextFileParser\TextFileParser\obj\Debug\TextFileParser.exe.config
