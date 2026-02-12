@@ -20,7 +20,7 @@ namespace TextFileParser
             string backupPath = Path.Combine(basePath, "Backup");
 
             string inputFile = Path.Combine(incomingPath, "InputData.txt");
-            string outputFile = Path.Combine(outgoingPath, "OutputData.txt");
+            string outputFile = Path.Combine(outgoingPath, "OutputData.csv");
 
             if (!File.Exists(inputFile))
             {
@@ -147,7 +147,7 @@ namespace TextFileParser
             File.WriteAllLines(outputFile, outputLines);
 
             File.Copy(inputFile, Path.Combine(backupPath, "InputData.txt"), true);
-            File.Copy(outputFile, Path.Combine(backupPath, "OutputData.txt"), true);
+            File.Copy(outputFile, Path.Combine(backupPath, "OutputData.csv"), true);
 
             Console.WriteLine("Proceso completado exitosamente.");
         }
